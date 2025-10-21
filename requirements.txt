@@ -1,5 +1,5 @@
 streamlit==1.30.0
-pandas==2.3.3
-numpy==2.1.0
+pandas==2.2.3       # compatible con Python 3.13
+numpy      # compatible con Streamlit y Python 3.13
 requests==2.32.5
 plotly==5.18.0
